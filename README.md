@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/MohammedFaizal05/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/120553195/dcd33e43-9611-4a13-802b-f72ad192c339)
+
+### Name: Mohammed Faizal.J
+
+### Register Number: 212222100027
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
